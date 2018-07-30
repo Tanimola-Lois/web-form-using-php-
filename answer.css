@@ -1,0 +1,23 @@
+html,body{
+  background-color: aqua;
+  margin: 0%;
+}
+.query{
+  font-weight: 100px;
+  color: blueviolet;
+}
+.cust{
+  text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.copu{
+  color: rgb(14, 14, 2);
+  margin-left: 20px;
+}
+footer{
+  bottom: 0%;
+  background-color: rgb(163, 155, 155);
+  position: absolute;
+  width: 100%;
+  height: 80px;
+}

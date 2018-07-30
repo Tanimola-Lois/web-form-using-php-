@@ -1,0 +1,41 @@
+html, body{
+  background-color: rgb(71, 18, 18);
+}
+h1{
+  text-align: center;
+  color: rgb(222, 232, 241);
+}
+.firm{
+  list-style: none;
+  padding: 10px;
+  color: rgba(196, 207, 35, 0.993);
+  font-size: 25px;
+  font-weight: 20px;
+}
+.fna{
+  width: 25%;
+  padding:10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.email{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.em{
+  width: 25%;
+  padding: 8px;
+}
+.pm{
+  padding: 7px;
+}
+.oth{
+  padding: 7px;
+  width: 15%;
+}
+.design{
+  margin-top: 8px;
+}
+.des{
+  width: 15%;
+  padding: 6px;
+}
